@@ -1,3 +1,5 @@
+// STARTER FILE FOR ASSIGNMENT
+
 #include "plock.h"
 
 plock_t *priority_lock;  /* global lock shared among worker threads */
